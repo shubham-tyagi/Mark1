@@ -7,6 +7,4 @@
  ![](https://imgur.com/k2MLWuN.png)
  
  # Technologies used
- * HTML
- * CSS 
  * Javascript
